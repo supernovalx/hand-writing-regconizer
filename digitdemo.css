@@ -1,0 +1,11 @@
+canvas {
+    cursor: default;
+    border: 1px solid;
+    border-color: #cccccc;
+    outline: 0;
+    vertical-align: bottom;
+}
+
+canvas.dragging {
+    cursor: crosshair;
+}
